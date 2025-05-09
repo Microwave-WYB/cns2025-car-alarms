@@ -1,3 +1,5 @@
+[View Slides](https://microwave-wyb.github.io/cns2025-car-alarms/)
+
 # Welcome to [Slidev](https://github.com/slidevjs/slidev)!
 
 To start the slide show:
